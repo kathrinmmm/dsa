@@ -1,0 +1,3 @@
+/Users/kathrin/Desktop/DSA/SortedBag/cmake-build-debug/CMakeFiles/SortedBag.dir
+/Users/kathrin/Desktop/DSA/SortedBag/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kathrin/Desktop/DSA/SortedBag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
